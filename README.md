@@ -1,7 +1,7 @@
 
 # NaNoGenMo 2014
 
-National Novel Generation Month - based on [an idea I tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168). This is the 2014 edition, [see here](https://github.com/dariusk/NaNoGenMo) for 2013.
+National Novel Generation Month - consumed on [a content tweeted on a caprice](https://twitter.com/tinysubversions/status/396305662000775168). This is the 2014 form, [figure here](https://github.com/dariusk/NaNoGenMo) for 2013.
 
 ## The Cognition
 
