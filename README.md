@@ -36,4 +36,4 @@ You might convey to curb out [capital](https://github.com/dariusk/corpora), a ca
 
 ## That's It
 
-So yeah. Have humor with this!
+So yeah. Have humor with this! 
